@@ -1,0 +1,4 @@
+Result:i 2
+love 1
+BMSTU 1
+ilove 1
